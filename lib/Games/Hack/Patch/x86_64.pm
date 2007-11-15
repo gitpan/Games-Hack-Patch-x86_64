@@ -3,7 +3,7 @@
 
 package Games::Hack::Patch::x86_64;
 
-$VERSION=0.1;
+$VERSION=0.12;
 
 require Exporter;
 @ISA = qw(Exporter);

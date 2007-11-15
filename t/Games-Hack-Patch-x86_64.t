@@ -3,7 +3,7 @@
 use Test::More tests => 11;
 
 sub BEGIN {
-use_ok('Games::Hack::Patch::i686');
+use_ok('Games::Hack::Patch::x86_64');
 }
 
 #########################
